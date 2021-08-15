@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">traditional words</string>
+    <string name="share_the_question_with_friends">Ask a friend</string>
+    <string name="share_question_text">Share</string>
+    <string name="share_title_hint"> Add Adress</string>
+    <string name="the_right_answer_is">The Answer Is</string>
+    <string name="back_text">Back</string>
+    <string name="permission_title">clarification</string>
+    <string name="permission_explanation">The application needs to obtain write permission to the external storage to store the image in preparation for sharing it through other applications</string>
+    <string name="permission_denied">The operation was not executed because the necessary permissions to execute it were not grantedا</string>
+    <string name="menuName">Change the language</string>
+
+    <string-array name="answers">
+        <item>Al-Aqal</item>
+        <item>scalp</item>
+        <item>Sadu</item>
+        <item>henna</item>
+        <item>dallah</item>
+        <item>slippers</item>
+        <item>dagger</item>
+        <item>the tiger</item>
+        <item>jellyfish / the os</item>
+        <item>lantern</item>
+        <item>fez</item>
+        <item>turban</item>
+        <item>dishdasha</item>
+    </string-array>
+
+    <string-array name="answer_description">
+        <item>يوضع فوق الحطّة\الغترة لتثبيتها</item>
+        <item>مبطنة بالصوف، تلبس في الشتاء للوقاية من البرد</item>
+        <item>أحد أنواع النسيج البدوي التقليدي</item>
+        <item>تستخدم في صبغ الشعر واللحية، كما تستخدم أيضاً في تجميل الأيدي بالنسبة للنساء</item>
+        <item>الوعاء المستخدم في تقديم القهوة عند العرب</item>
+        <item>مصنوع من الجلد، يُلبس في القدم، اشتُهر قديماً عند العرب</item>
+        <item>سلاح أبيض صغير يوضع على الخصر</item>
+        <item>وسادة صغيرة يُتكأ عليها</item>
+        <item>اسم الاداة التي كانت تُستخدم للإضاءة قديما</item>
+        <item>أداة تُستخدم للإضاءة والزينة</item>
+        <item>قبعة حمراء اشتهرت في بلاد الشام ومصر والمغرب</item>
+        <item>غطاء يُكوّر فوق الرأس</item>
+        <item>ثوب عربي يُلبس بكثرة في دول الخليج</item>
+    </string-array>
+    <string-array name="images">
+        <item>R.drawable.icon_1</item>
+        <item>R.drawable.icon_2</item>
+        <item>R.drawable.icon_3</item>
+        <item>R.drawable.icon_4</item>
+        <item>R.drawable.icon_5</item>
+        <item>R.drawable.icon_6</item>
+        <item>R.drawable.icon_7</item>
+        <item>R.drawable.icon_8</item>
+        <item>R.drawable.icon_9</item>
+        <item>R.drawable.icon_10</item>
+        <item>R.drawable.icon_11</item>
+        <item>R.drawable.icon_12</item>
+        <item>R.drawable.icon_13</item>
+
+
+    </string-array>
+    <array name="languages">
+        <item >العربيه</item>
+        <item>English</item>
+
+    </array>
+
+
+
+
+
+</resources>
